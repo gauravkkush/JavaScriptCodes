@@ -23,6 +23,3 @@ while (i < n) {
 }
 console.log(arr);
 console.log("\nLargest element is: " + largest(arr, n));
-arr.join
-var s="ssdmmkdn";
-s.split(",", s.length);
